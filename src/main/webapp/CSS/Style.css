@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+body{
+	background-image: url("../Assets/background.jpg");
+	background-repeat:no-repeat;
+	
+}
+.home-h1 {
+	text-align:center;
+	 color:white;
+}
+.home-h1 a {
+	padding-right:50px;
+}	
+.cs-login h1, h2{
+	text-align:center;
+	color:white;
+}
+.cs-login h3{
+	text-align:center;
+	color:white;
+}
+.customer-login h1{
+	text-align:center;
+}
+.customer-login a,h3{
+	color:white;
+}
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left:38%;
+  transform: translateY(-50%);
+  border:solid;
+  padding: 5px;
+  background-color:#c0c0c0;
+}
+.c-trans1{
+	text-align: center;
+	color:white;
+}
+	
+
