@@ -2,7 +2,7 @@
 
 ## Project Description
 
-A BankingApp is a web-based application that simulates the banking operations. A customer can apply for an account, view balance, deposit the amount, withdraw the amount and transfer the amount. An employee can approve or deny the accounts and view the balance of their customers by looging in. And customer can perform the operations if and only if he has logged in successfully.
+A Banking-App is a web-based application that simulates the banking operations. A customer can apply for an account, view balance, deposit the amount, withdraw the amount and transfer the amount. An employee can approve or deny the accounts and view the balance of their customers by logging in. And customer can perform the operations if and only if he has logged in successfully.
 
 ## Technologies Used
 
